@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Just_do_it!</h1>
+    <h1>To_Do_List!</h1>
     <h3>Check Everyday</h3>
   </header>
 </template>

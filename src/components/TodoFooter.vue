@@ -31,7 +31,7 @@ export default {
   display: block;
 }
 .footer {
-  color: #000000;
+  color: white;
   font-weight: 500;
   margin: 0.5rem 0 1.5rem;
 }

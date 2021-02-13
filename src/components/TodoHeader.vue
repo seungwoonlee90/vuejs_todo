@@ -7,12 +7,12 @@
 
 <style scoped>
 h1 {
-  color: #0336FF;
+  color: white;
   font-weight: 900;
   margin: 2.5rem 0 1.5rem;
 }
 h3 {
-  color: #000000;
+  color: white;
   font-weight: 900;
   margin: 0.5rem 0 1.5rem;
 }

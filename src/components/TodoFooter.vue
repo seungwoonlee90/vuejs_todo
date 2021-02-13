@@ -2,7 +2,7 @@
   <div class="ClearAllContainer">
       <span class="ClearAllBtn" v-on:click="clearTodo">Clear All</span>
       <div class="footer">
-        copyright ethanlee
+        copyright <a href="https://www.notion.so/ethanlogue-74857314286d45dd92c7a7fc41b98549">ethanlee</a>
       </div>
   </div>
 </template>

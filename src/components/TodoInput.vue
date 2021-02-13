@@ -11,7 +11,7 @@
       default content
     -->
         <template v-slot:header>
-          <h3>warning!!
+          <h3>경고!!
             <i class="closeModalBtn fas fa-times" @click="showModal = false"></i>
           </h3>
         </template>

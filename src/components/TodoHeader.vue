@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>To_Do_List!</h1>
-    <h3>Check Everyday</h3>
+    <h3>Check Everyday &#9997;</h3>
   </header>
 </template>
 
